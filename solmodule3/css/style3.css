@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    border:0;
+    margin: 0;
+}
+
+.nav-css {
+    background-color: #c22727;
+    border: 2px solid;
+    font-weight: 300;
+}
+.item {
+    border: 2px solid;
+    padding: 20px;
+    background-color: #f1b2b2;
+    margin-bottom: 10px;   
+   
+}
+
+
+
+
+
+.menu-title {
+    font-weight: 200;
+    font-weight: bold;
+} 
+
