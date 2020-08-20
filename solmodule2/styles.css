@@ -165,13 +165,13 @@
     }
   }
   .box-wrapper {
-      background: #d0d0d0;
+      background: #eebafd;
       border: 2px solid black;
       margin: 15px;
   }
   
   .english {
-      background: pink;
+      background: rgb(63,231,119);
   }
   .marathi{
       color: white;
